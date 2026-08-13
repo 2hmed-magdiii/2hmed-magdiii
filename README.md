@@ -1,50 +1,35 @@
-# Ahmed Magdy
+<h1 align="center">Hi 👋, I'm Ahmed Magdy</h1>
+<h3 align="center">An AI Engineer focused on Generative AI, LLMs, and Agentic AI from Egypt.</h3>
 
-### AI Engineer | Generative AI & LLM Applications
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2hmed-magdiii&label=Profile%20views&color=0e75b6&style=flat" alt="2hmed-magdiii" /> </p>
 
-I build practical AI solutions using Large Language Models and modern
-AI engineering techniques, with a focus on Generative AI, LLM applications,
-and Agentic AI.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2hmed-magdiii" alt="2hmed-magdiii" /></a> </p>
 
-My background in Artificial Intelligence and Data Science helps me approach
-AI problems from both the modeling and engineering perspectives.
+- 🔭 I’m currently working on **LLM-powered applications, RAG, and Agentic AI solutions**
 
-## What I Build
+- 🌱 I’m currently learning **LLM Engineering, RAG, Agentic AI, and Multi-Agent Systems**
 
-- LLM-powered applications
-- AI agents and agentic workflows
-- RAG-based applications
-- AI automation solutions
-- Data-driven machine learning applications
+- 👯 I’m looking to collaborate on **Open-source AI, LLM, and Agentic AI projects**
 
-## Selected Work
+- 🤝 I’m looking for help with **Advanced LLM orchestration, AI agents, and production-ready AI systems**
 
-### GradeVision
-An AI-powered automated interview and evaluation system developed as my
-graduation project.
+- 👨‍💻 All of my projects are available at [https://github.com/2hmed-magdiii](https://github.com/2hmed-magdiii)
 
-### LLM Company Brochure Generator
-An LLM-powered application that researches a company's website and generates
-a structured company brochure.
+- 💬 Ask me about **Generative AI, LLM applications, AI Agents, Machine Learning, and Data Science**
 
-### LLM Web Summarizer
-An application that extracts web content and uses LLMs to generate concise
-summaries.
+- 📫 How to reach me **2hmed.magdiii@gmail.com**
 
-## Background
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_ZhquqiUbWLuaZPBwYBPNcszXr4kc2Xs/view?usp=sharing](https://drive.google.com/file/d/1_ZhquqiUbWLuaZPBwYBPNcszXr4kc2Xs/view?usp=sharing)
 
-- B.Sc. in Artificial Intelligence — Egyptian Russian University
-- Ranked 2nd in the AI Department
-- Data Analysis Trainer — ITI
-- Data Engineer Trainer — ITI
-- Data Scientist Trainer — DEPI
+- ⚡ Fun fact **I think I am funny**
 
-## Technical Focus
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Generative AI • LLM Engineering • AI Agents • RAG • Machine Learning •
-Data Science • Deep Learning
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## Connect
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2hmed-magdiii&show_icons=true&locale=en&layout=compact" alt="2hmed-magdiii" /></p>
 
-• [LinkedIn]->(https://www.linkedin.com/in/2hmed-magdiii?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
-• [Email]->(2hmed.magdiii@gmail.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2hmed-magdiii&show_icons=true&locale=en" alt="2hmed-magdiii" /></p>
