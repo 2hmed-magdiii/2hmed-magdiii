@@ -42,7 +42,7 @@ summaries.
 ## Technical Focus
 
 Generative AI • LLM Engineering • AI Agents • RAG • Machine Learning •
-Data Science • Python • SQL
+Data Science • Deep Learning
 
 ## Connect
 
